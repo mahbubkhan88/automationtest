@@ -1,9 +1,9 @@
-package StepDef;
+package stepdef;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import CommonMethod.Driver;
+import commonmethod.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 

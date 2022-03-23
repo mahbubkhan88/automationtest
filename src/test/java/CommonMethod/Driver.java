@@ -1,4 +1,4 @@
-package CommonMethod;
+package commonmethod;
 
 import org.openqa.selenium.WebDriver;
 
